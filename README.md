@@ -56,9 +56,6 @@ python witness.py --L 128
 python witness.py --L 256
 ```
 
-`leak_gate.py` exits with status 0 when every gate passes at every length and
-with status 1 otherwise. Results that depend on sampling vary slightly with
-the seed.
 
 ## License
 
